@@ -1,0 +1,7 @@
+hello - привет
+goodbye - пока
+one - один
+two - два
+three - три
+four - четыре
+five - пять
